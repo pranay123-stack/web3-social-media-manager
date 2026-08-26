@@ -47,5 +47,13 @@ Discord and Telegram. None of that exists yet.
 
 ---
 
+---
+
+## Design specification
+
+| Repo | Scope |
+|---|---|
+| [socialfi-projects](https://github.com/pranay123-stack/socialfi-projects) | Decentralized social graphs, creator tokens, content monetization, on-chain reputation, token-gated communities. **No source code** |
+
 *Part of [Onchain Protocol Engineering](https://github.com/pranay123-stack/onchain-protocol-engineering) ·
 related: [Web3 Community Tools](https://github.com/pranay123-stack/web3-community-tools) · [Web3 Articles](https://github.com/pranay123-stack/web3-articles)*
